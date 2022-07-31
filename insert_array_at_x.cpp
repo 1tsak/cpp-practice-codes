@@ -1,12 +1,10 @@
 #include <iostream>
 using namespace std;
 
-// Driver Code
 
 #include <iostream>
 using namespace std;
 
-// Function to insert x in arr at position pos
 int *insertElement(int n, int arr[],
              int x, int pos)
 {

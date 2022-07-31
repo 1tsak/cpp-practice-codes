@@ -1,2 +1,2 @@
-
-    cin >> p;
+;
+                minPos=j;
